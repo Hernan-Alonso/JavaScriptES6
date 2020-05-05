@@ -1,0 +1,17 @@
+https://jsonplaceholder.typicode.com/todos
+
+https://epok.buenosaires.gob.ar/getCategorias/
+
+https://soluciones.aeroterra.com/server/rest/services/OD_Economia/MINEM_EstacionesDeServicio/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json
+
+https://randomuser.me/documentation#format
+
+https://developers.arcgis.com/rest/services-reference/query-feature-service-layer-.htm
+
+http://datosabiertos.aeroterra.com/datasets/11e15ac941b74fc9aab7edd1506950d6_0/geoservice?geometry=-59.272%2C-34.847%2C-57.961%2C-34.451&orderBy=OBJECTID&where=DESCRIPCIO%20%3D%20%27ESTACION%20DE%20SERVICIO%27
+
+https://usig.buenosaires.gob.ar/apis/#/Desarrollo/getObjectContent
+
+https://leafletjs.com/reference-1.6.0.html#map-example
+
+https://api.datos.gob.mx/v1/precio.gasolina.publico

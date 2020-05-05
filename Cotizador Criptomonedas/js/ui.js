@@ -40,7 +40,11 @@ class Intefaz{
     //imprime el resultado
     mostrarResultado(resultado, moneda, criptomoneda){
         const datosMoneda = resultado[criptomoneda][moneda];
-
+        //en casode resultado anterior ocultarlo
+        const resultadoAnterior = document.querySelector('#resultado > div');
+        if(resultadoAnterior){
+            resultadoAnterior.remove();
+        }
         let precio = datosMoneda.PRICE.toFixed(2);
         let porcentaje = datosMoneda.CHANGEPCTDAY.toFixed(2);
         let fecha = new Date(datosMoneda.LASTUPDATE * 1000).toLocaleDateString('es-AR');
